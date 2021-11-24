@@ -4,8 +4,8 @@
 
 Github learning.
 
-- [] project init
-- [] first commit
+- [ ] project init
+- [ ] first commit
 
 ### Assignment 2
 
